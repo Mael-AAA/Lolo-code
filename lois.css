@@ -1,0 +1,25 @@
+         a:link {
+                color: white;
+                text-decoration: none;
+            }
+
+            a:hover{
+                color:orange;
+                text-decoration: underline;
+            }
+            element {
+                color:black
+            }
+
+             nav{
+                display:flex;
+                justify-content:space-evenly;
+                background-color:rgb(62, 18, 94);
+            }
+            body{
+                  background-image: url("file:///C:/Users/aimsn/Downloads/fond%20body%20lois.png");
+                  background-size: cover;
+                  background-repeat: repeat-x;
+                  background-position: center;
+                  background-attachment: fixed;
+            }
